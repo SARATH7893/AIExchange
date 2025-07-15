@@ -60,7 +60,7 @@ function SideBar(){
     return(
         <section className='sideBar'>
             <button onClick={createNewChat}>
-                <img src="src/assets/Abstract AI Tech Logo without Text.png" alt="logo"  className='logo'/>
+                <img src="src/assets/AI.png" alt="logo"  className='logo'/>
                 <span><i className="fa-solid fa-pen-to-square"></i></span>
             </button>
 

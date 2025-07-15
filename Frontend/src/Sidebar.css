@@ -9,8 +9,11 @@
 }
 
 .logo{
-    height:25px;
-    width:25px;
+    height: 25px;
+    width: 25px;
+    background-color: #171717;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 button {
